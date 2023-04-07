@@ -1,0 +1,2 @@
+myssid=''
+mypass=''
